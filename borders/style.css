@@ -1,0 +1,35 @@
+body{
+    background-color: purple;
+}
+.one{
+    border-style: dotted;
+    border-width: 15px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.two{
+    border-style: groove;
+    border-width: 15px;
+    border-radius: 5px;
+    padding: 5px;
+}
+.three{
+    border-style: double;
+    border-width: 15px;
+    border-radius: 5px;
+    padding: 5px;
+
+}
+.four{
+    border-style: inset;
+    border-width: 20px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.five{
+    border-style: outset;
+    border-width: 15px;
+    border-radius: 5px;
+    padding: 5px;
+}
